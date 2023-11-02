@@ -4,6 +4,7 @@ EFI folder to run macOS Ventura version on Lenovo V110-15ISK Laptop using OpenCo
 
 ## About this Laptop
 
+![Screenshot](https://raw.githubusercontent.com/kaelthasmanu/Lenovo-Ideapad-110-15ISK-Hackintosh-MacOSVentura/main/assets/Screenshot%202023-11-01%20at%2022.30.03.png)
 
 ### Original Hardware
 
