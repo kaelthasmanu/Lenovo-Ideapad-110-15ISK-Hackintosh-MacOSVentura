@@ -4,7 +4,6 @@ EFI folder to run macOS Ventura version on Lenovo V110-15ISK Laptop using OpenCo
 
 ## About this Laptop
 
-![Screenshot 2023-10-28 at 12 11 06](https://github.com/ciccio-90/Lenovo_V110-15ISK_Hackintosh_OpenCore_macOS_Sonoma/assets/66642459/809ad572-88f2-4eb8-9992-861a0693aed4)
 
 ### Original Hardware
 
@@ -49,6 +48,4 @@ Kext | Info
 ### Used SSDTs
 SSDT | Info
 :---------|:---------
-[SSDT-PLUG-DRTNIA.aml](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-PLUG-DRTNIA.aml) | Used for enabling Apple's XCPM in macOS, allowing for far better CPU power management.
-[SSDT-EC-USBX-LAPTOP.aml](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-EC-USBX-LAPTOP.aml) | Used for disabling your real Embedded controller and creating a fake one for macOS to play with. USBX portion is used for injection USB power properties missing on Skylake and newer.
-[SSDT-PNLF.aml](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-PNLF.aml) | Used for controlling the backlight on internal displays such as AIOs and laptops.
+MaLd0n.aml | Olarila
