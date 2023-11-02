@@ -14,7 +14,7 @@ Motherboard	| Phoenix BIOS 1KCN51WW | Working
 CPU | Intel(R) Core(TM) i3-6100U CPU @ 2.03GHz | Working
 Ethernet | Realtek RTL8100 PCI Express Gigabit Ethernet Controller | Working
 Wi-Fi | RTL8821E 802.11ac | Not Working (Incompatible with hackintosh)
-Bluetooth | Working
+Bluetooth | Bluetooth | Working
 GPU | Intel Skylake GT2 HD Graphics 520 | Working
 Audio | Realtek ALC236 | Working
 HDMI | Intel Skylake HDMI | Working
